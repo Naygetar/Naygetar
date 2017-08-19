@@ -36,7 +36,7 @@ ln -fs /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
 clear
 echo ""
 echo "Pritunl, Squid Proxy, Firewall .... Install Success ...."
-echo "Ubuntu 14.04 Trusty"
+echo "Ubuntu 14.04"
 echo "Source by Naygetar"
 echo ""
 echo "Copy URL and Pless on Browser : https://$MYIP"
