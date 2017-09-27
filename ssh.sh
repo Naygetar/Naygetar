@@ -64,7 +64,7 @@ ufw allow 8080 1>/dev/null 2>/dev/null
 ufw allow 3128 1>/dev/null 2>/dev/null
 
 cd
-wget https://github.com/Naygetar/Naygetar/blob/master/script.tar.gz
+wget https://github.com/Naygetar/Naygetar/raw/master/script.tar.gz
 cp -r /root/script.tar.gz /usr/local/bin
 cd /usr/local/bin
 tar -xvf script.tar.gz
@@ -140,7 +140,7 @@ ufw allow 3128 1>/dev/null 2>/dev/null
 service squid3 restart 1> /dev/null 2> /dev/null
 
 cd
-wget https://github.com/Naygetar/Naygetar/blob/master/script.tar.gz
+wget https://github.com/Naygetar/Naygetar/raw/master/script.tar.gz
 cp -r /root/script.tar.gz /usr/local/bin
 cd /usr/local/bin
 tar -xvf script.tar.gz
@@ -215,7 +215,7 @@ ufw allow 8080 1>/dev/null 2>/dev/null
 ufw allow 3128 1>/dev/null 2>/dev/null
 
 cd
-wget https://github.com/Naygetar/Naygetar/blob/master/script.tar.gz
+wget https://github.com/Naygetar/Naygetar/raw/master/script.tar.gz
 cp -r /root/script.tar.gz /usr/local/bin
 cd /usr/local/bin
 tar -xvf script.tar.gz
@@ -290,7 +290,7 @@ ufw allow 8080 1>/dev/null 2>/dev/null
 ufw allow 3128 1>/dev/null 2>/dev/null
 
 cd
-wget https://github.com/Naygetar/Naygetar/blob/master/script.tar.gz
+wget https://github.com/Naygetar/Naygetar/raw/master/script.tar.gz
 cp -r /root/script.tar.gz /usr/local/bin
 cd /usr/local/bin
 tar -xvf script.tar.gz
